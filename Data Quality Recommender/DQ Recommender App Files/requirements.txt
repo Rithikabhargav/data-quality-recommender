@@ -1,0 +1,12 @@
+torch>=2.2
+streamlit>=1.50
+pandas>=2.2
+numpy>=1.26
+scikit-learn>=1.5
+altair>=5
+# notebook only
+matplotlib
+seaborn
+kagglehub
+psutil
+tensorboard
